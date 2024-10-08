@@ -23,7 +23,7 @@ public class JavaEncoderDecoder extends Application {
 
     @Override
     public void start(Stage primaryStage) throws Exception {
-        primaryStage.setTitle("JED <Java Encoder Decoder> v" + String.valueOf(VERSION));
+        primaryStage.setTitle("JED <Java Encoder/Decoder> v" + String.valueOf(VERSION));
 
         primaryStage.setMinWidth(600);
         primaryStage.setMinHeight(500);
