@@ -18,7 +18,7 @@ java -jar ./out/artifacts/jed_jar/jed.jar
 
 ## Credits
 
-- [Muhammet Şafak](https://www.muhammetsafak.com.tr) <<info@muhammetsafak.com.tr>>
+- [Muhammet Şafak](https://muhammetsafak.com) <<info@muhammetsafak.com>>
 
 ## License
 
